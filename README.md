@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+Soy argentina de 25 años. Actualmente estoy enfocada en el desarrollo web full stack y aprendo nuevas tecnologías para mejorar mis habilidades.
+![image](https://user-images.githubusercontent.com/89808613/155457246-190c1ad5-f364-4f32-8a3c-51a20a25712e.png)
+ORIANA IRIGO-FULL STACK DEVELOPER
 <!--
 **oriirigo/oriirigo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
