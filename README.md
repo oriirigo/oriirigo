@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hola 👋
 Soy argentina de 25 años. Actualmente estoy enfocada en el desarrollo web full stack y aprendo nuevas tecnologías para mejorar mis habilidades.
 ![Hello(1)](https://user-images.githubusercontent.com/89808613/155457366-6452b7cb-08d7-4fc8-9adc-112857ee5596.gif)
 
