@@ -5,7 +5,7 @@ Soy argentina de 25 años. Actualmente estoy enfocada en el desarrollo web full 
 ORIANA IRIGO-FULL STACK DEVELOPER
 
 
-Tech & Tools Preference
+Tecnologías y herramientas 
 ![image](https://user-images.githubusercontent.com/89808613/155757169-50f43fcc-e108-4527-9bbc-14ed2368225c.png)
 ![image](https://user-images.githubusercontent.com/89808613/155757246-749dbae2-200f-4593-9bc9-002ca1bc6dc7.png)
 ![image](https://user-images.githubusercontent.com/89808613/155757268-4995a923-bd1a-4de7-a3b0-71faa38ed684.png)
